@@ -1,0 +1,10 @@
+Ecco la lista dei ws che deve essere implementata:
+
+1) login(email,password)
+2) logout
+3) createDot(session_id,path_id,value,comment,picture)
+4) modifyDot
+5) deleteDot
+6) modifyUserName(name) 
+7) modifyUserPassword(oldPassword,newPassword)
+8) recoverPassword(email)

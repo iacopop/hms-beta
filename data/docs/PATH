@@ -1,0 +1,32 @@
+i path possono essere definiti dell'utenti che possono avere i propri path personali.
+Il path di default di tutti è LIFE
+
+sistemare il db
+
+Su user aggiungere:
+
+created_time
+last_login_time
+name
+surname
+(geoloc)
+
+Su path
+
+image
+color
+created_time
+shareable (yes/no)
+
+Dots
+
+created_time
+image
+geoloc
+shared
+
+
+
+
+
+Possibilità di edit_time per tutti
